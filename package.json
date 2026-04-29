@@ -1,0 +1,9 @@
+{
+  "name": "assalam-ai-portal",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SyCore-AI DPK Portal",
+  "scripts": {
+    "dev": "python -m http.server 5173"
+  }
+}
